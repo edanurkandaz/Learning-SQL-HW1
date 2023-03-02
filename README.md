@@ -1,4 +1,5 @@
 # Learning-SQL-HW1 
+www.patika.dev \
 Aşağıdaki cümleleri SQL formatında yazalım. \
 Veri tabanı olarak dvdrental'ı kullanalım. \
 \
