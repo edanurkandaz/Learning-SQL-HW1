@@ -1,4 +1,4 @@
-# Learning-SQL-HW1 \
+# Learning-SQL-HW1 
 Aşağıdaki cümleleri SQL formatında yazalım. \
 Veri tabanı olarak dvdrental'ı kullanalım. \
 \
